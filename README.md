@@ -24,8 +24,13 @@ The following **additional** features are implemented:
 - [x] Add a backspace feature to allow the user to correct miss-inputs
 
 ## Video Walkthrough
-
-    <div style="position: relative; padding-bottom: 202.24719101123597%; height: 0;"><iframe src="https://www.loom.com/embed/34653529322840ecbf15f58c0c379c78?sid=43f0b9a7-e1dd-4adf-a874-002a2742dfed" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/34653529322840ecbf15f58c0c379c78">
+    </a>
+    <a href="https://www.loom.com/share/34653529322840ecbf15f58c0c379c78">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/34653529322840ecbf15f58c0c379c78-with-play.gif">
+    </a>
+  </div>
 
 
 ## Notes
