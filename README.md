@@ -1,37 +1,41 @@
-# Project 1 - *Wordle*
+# Project 2 - *Wordle 2*
 
 Submitted by: **Richard Martinez**
 
-**Wordle** is an app that, in each round, you will be given a secret word to guess and a limited number of chances to do so. With each guess, you'll receive clues that indicate which letters are included in the word and where they're located. You aim to use these clues to guess the secret word before running out of attempts.
+**Wordle 2** is an app that, in each round, you will be given a secret word to guess and a limited number of chances to do so. With each guess, you'll receive clues that indicate which letters are included in the word and where they're located. You aim to use these clues to guess the secret word before running out of attempts.
 
-Time spent: **4** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] App displays a keyboard on the screen
-- [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [x] User can play a basic version of Wordle, with different goal words each time
+- [x] User can change the number of letters per row (the length of the goal word)
+- [x] User can change the numbers of rows on the board (how many guesses allowed)
+- [x] User can select a new themed set to pull the goal word from
+- [x] User can select "alien wordle", causing the goal word to change after each guess
+
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launch screen and app icon
-- [ ] Run the app on a device rather than in the simulator
+- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 The following **additional** features are implemented:
 
-- [x] Add a backspace feature to allow the user to correct miss-inputs
+- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-<div>
-    <a href="https://www.loom.com/share/34653529322840ecbf15f58c0c379c78">
-    </a>
-    <a href="https://www.loom.com/share/34653529322840ecbf15f58c0c379c78">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/34653529322840ecbf15f58c0c379c78-with-play.gif">
-    </a>
-  </div>
 
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/41897c9173b54305a6ba5d50f29c9b96">
+    </a>
+    <a href="https://www.loom.com/share/41897c9173b54305a6ba5d50f29c9b96">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/41897c9173b54305a6ba5d50f29c9b96-with-play.gif">
+    </a>
+</div>
 
 ## Notes
 
@@ -48,6 +52,10 @@ Some challenges with building the app were finding ways to subtly improve the ap
         http://www.apache.org/licenses/LICENSE-2.0
 
     Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.g, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
