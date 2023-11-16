@@ -5,7 +5,7 @@ Submitted by: **Richard Martinez**
 **Wordle 2** is an app that, in each round, you will be given a secret word to guess and a limited number of chances to do so. With each guess, you'll receive clues that indicate which letters are included in the word and where they're located. You aim to use these clues to guess the secret word before running out of attempts.
  
 Time spent: **9** hours spent in total
-  
+   
 ## Required Features 
  
 The following **required** functionality is completed:  
