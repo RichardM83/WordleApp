@@ -7,7 +7,7 @@ Submitted by: **Richard Martinez**
 Time spent: **9** hours spent in total
    
 ## Required Features 
- 
+  
 The following **required** functionality is completed:  
    
 - [x] User can change the number of letters per row (the length of the goal word)
